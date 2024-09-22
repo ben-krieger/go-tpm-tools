@@ -385,7 +385,7 @@
 #define RSA_2048                    (ALG_RSA & YES)
 #endif
 #ifndef RSA_3072
-#define RSA_3072                    (ALG_RSA & NO)
+#define RSA_3072                    (ALG_RSA & YES)
 #endif
 #ifndef RSA_4096
 #define RSA_4096                    (ALG_RSA & NO)
